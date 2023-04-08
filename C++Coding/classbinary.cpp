@@ -22,6 +22,7 @@ public:
             }
         }
     }
+
     void ones()
     { // Taking one's complement
         for (int i = 0; i < s.length(); i++)
